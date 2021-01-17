@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306466134942",
+    "project_id": "absensiku-82e7b",
+    "storage_bucket": "absensiku-82e7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306466134942:android:4060bd7715335f12ac548f",
+        "android_client_info": {
+          "package_name": "com.example.absensiku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306466134942-ohrvlotr032jsfdgs5gr0p75ivqkemrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK0Ad3ZaDaTRYLa3gC9v391EAi_e07j10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306466134942-ohrvlotr032jsfdgs5gr0p75ivqkemrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
